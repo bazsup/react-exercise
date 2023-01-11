@@ -1,0 +1,44 @@
+{
+  "bookshelf": [
+    {
+      "id": 1,
+      "title": "Domain-Driven Design: Tackling Complexity in the Heart of Software",
+      "desc": "Eric Evans has written a fantastic book on how you can make the design of your software match your mental model of the problem domain you are addressing.",
+      "owner": "bazsup",
+      "category": "Computer",
+      "finished": false
+    },
+    {
+      "id": 2,
+      "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+      "desc": "Even bad code can function. But if code isn’t clean, it can bring a development organization to its knees. Every year, countless hours and significant resources are lost because of poorly written code. But it doesn’t have to be that way.",
+      "owner": "bazsup",
+      "category": "Computer",
+      "finished": true
+    },
+    {
+      "id": 3,
+      "title": "The Pragmatic Programmer: 20th Anniversary Edition, 2nd Edition: Your Journey to Mastery",
+      "desc": "The Pragmatic Programmer is one of those rare tech audiobooks you’ll listen, re-listen, and listen to again over the years. Whether you’re new to the field or an experienced practitioner, you’ll come away with fresh insights each and every time.",
+      "owner": "bazsup",
+      "category": "Computer",
+      "finished": false
+    },
+    {
+      "id": 4,
+      "title": "The Adventures of Sherlock Holmes (Penguin Clothbound Classics)",
+      "desc": "A new collection to coincide with the upcoming major motion picture starring Robert Downey, Jr., and Jude Law, Sherlock Holmes",
+      "owner": "bazsup",
+      "category": "Novel",
+      "finished": false
+    },
+    {
+      "id": 5,
+      "title": "Gone Girl",
+      "desc": "#1 NEW YORK TIMES BESTSELLER • The “mercilessly entertaining” (Vanity Fair) instant classic “about the nature of identity and the terrible secrets that can survive and thrive in even the most intimate relationships” (Lev Grossman, Time)—now featuring never-before-published deleted scenes",
+      "owner": "bazsup",
+      "category": "Novel",
+      "finished": false
+    }
+  ]
+}
